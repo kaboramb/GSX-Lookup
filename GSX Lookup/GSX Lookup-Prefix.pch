@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'GSX Lookup' target in the 'GSX Lookup' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
